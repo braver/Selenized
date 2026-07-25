@@ -10,7 +10,7 @@ This package is a color scheme (ie. syntax highlighting for code), created espec
 
 ## Installation
 
-To install it, use [Package Control](https://packagecontrol.io/packages/Selenized%20Color%20Scheme).
+To install it, use [Package Control](https://packages.sublimetext.com/packages/Selenized%20Color%20Scheme).
 
 After installation select either Light, Dark, White or Black from the "Select Color Scheme" entry in the command palette.
 
